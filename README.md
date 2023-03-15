@@ -1,5 +1,5 @@
-# 3D-viewer-for-FIJI-ImageJ  version 4.0.3
-Change font size for the axes labels in 3D viewer
+# Change font size for the axes labels in 3D viewer-for-FIJI/ImageJ 
+Change font size for the axes labels in 3D viewer   version 4.0.3
 
 how to use 
   1, change delete the "_size_?"   for example  3D_Viewer-4.0.3-size-1.jar  to  3D_Viewer-4.0.3.jar
